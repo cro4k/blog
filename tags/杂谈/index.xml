@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杂谈 on Singsen</title>
-    <link>http://mysite.com/tags/%E6%9D%82%E8%B0%88/index.xml</link>
+    <link>http://blog.singsen.me/tags/%E6%9D%82%E8%B0%88/index.xml</link>
     <description>Recent content in 杂谈 on Singsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <atom:link href="http://mysite.com/tags/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.singsen.me/tags/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hello</title>
-      <link>http://mysite.com/2016/12/hello/</link>
+      <link>http://blog.singsen.me/2016/12/hello/</link>
       <pubDate>Thu, 22 Dec 2016 15:42:08 +0800</pubDate>
       
-      <guid>http://mysite.com/2016/12/hello/</guid>
+      <guid>http://blog.singsen.me/2016/12/hello/</guid>
       <description>&lt;p&gt;我有酒，你有故事吗？&lt;/p&gt;
 </description>
     </item>
