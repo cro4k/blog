@@ -1,28 +1,87 @@
----
-layout: post-index
-title: Tag Archive
-description: "An archive of posts sorted by tag."
-comments: false
----
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Tags</title>
+		<meta name="author" content="Singsen">
+		<meta name="generator" content="Hugo 0.18" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://mysite.com//css/skeleton.css">
+		<link rel="stylesheet" href="http://mysite.com//css/custom.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		
+	</head>
+	<body class="color-scheme-dark">
+		<div class="container" style="border-bottom: 0px solid #eee;">
+			<div class="row">
+				<div class="eight columns">
+                                        
+					<a href="http://mysite.com/" class="sitename"><span style="font-size: 36px; ">my<b>Blog</b></span></a>
+                                        
+					
+					<span style="font-size: 14px;">|<i>我有酒，你有故事吗</i></span>
+					
+				</div>
+				<div class="four columns" >
+					
+					
+					
+					
+					<a class="navbar-link" href="http://mysite.com/">home</a>
+					
+					
+					
+					<a class="navbar-link" href="https://github.com/singsenxc">github</a>
+					
+					
+					
+					<a class="navbar-rlink" href="http://weibo.com/singsenxc">weibo</a>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			
+			<div class="row">
+				<div class="twelve columns" >
+					<img class="u-max-full-width" src="http://mysite.com//img/head.jpg">
+				</div>
+			</div>
+			
 
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tags_list = site_tags | split:',' | sort %}
+<div class="row">
+	<div class="twelve columns">
+		
+		
+		<span style="font-size:24px;font-weight:bold">杂谈</span><br>
+		
+		<span style="margin-left:22px">Dec 22, 2016 - <a href="http://mysite.com/2016/12/hello/">hello</a></span><br>
+		
+		
+	</div>
+</div>
 
-<ul class="entry-meta inline-list">
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-  	<li><a href="#{{ this_word }}" class="tag"><span class="term">{{ this_word }}</span> <span class="count">{{ site.tags[this_word].size }}</span></a></li>
-  {% endunless %}{% endfor %}
-</ul>
+<div class="row">
+	<div class="twelve columns">
+		&nbsp;
+	</div>
+</div>
 
-{% for item in (0..site.tags.size) %}{% unless forloop.last %}
-  {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-	<article>
-	<h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
-		<ul>
-    {% for post in site.tags[this_word] %}{% if post.title != null %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endif %}{% endfor %}
-		</ul>
-	</article><!-- /.hentry -->
-{% endunless %}{% endfor %}
+<div id="footer" class="row">
+	<div class="twelve columns">
+		<center>
+			<span style="font-size: small;">
+				[ theme created by <a href="http://github.com/esell" class="copyright-link" target="#">esell</a> ]
+			</span>
+		</center>
+	</div>
+</div>
+</div>
+
+</body>
+</html>
+
+
