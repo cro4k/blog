@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Singsen</title>
+    <link>http://mysite.com/post/index.xml</link>
+    <description>Recent content in Posts on Singsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 22 Dec 2016 15:42:08 +0800</lastBuildDate>
+    <atom:link href="http://mysite.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello</title>
+      <link>http://mysite.com/2016/12/hello/</link>
+      <pubDate>Thu, 22 Dec 2016 15:42:08 +0800</pubDate>
+      
+      <guid>http://mysite.com/2016/12/hello/</guid>
+      <description>&lt;p&gt;我有酒，你有故事吗？&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
