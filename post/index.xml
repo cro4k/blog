@@ -2,20 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Singsen</title>
-    <link>http://blog.singsen.me/post/index.xml</link>
+    <link>https://blog.singsen.me/post/index.xml</link>
     <description>Recent content in Posts on Singsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 22 Dec 2016 15:42:08 +0800</lastBuildDate>
-    <atom:link href="http://blog.singsen.me/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2016 14:19:30 +0800</lastBuildDate>
+    <atom:link href="https://blog.singsen.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MUSIC</title>
+      <link>https://blog.singsen.me/2016/12/music/</link>
+      <pubDate>Fri, 23 Dec 2016 14:19:30 +0800</pubDate>
+      
+      <guid>https://blog.singsen.me/2016/12/music/</guid>
+      <description>&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=298 height=52 src=&#34;//music.163.com/outchain/player?type=0&amp;id=429127430&amp;auto=1&amp;height=32&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;(网易云外链播放器)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>hello</title>
-      <link>http://blog.singsen.me/2016/12/hello/</link>
+      <link>https://blog.singsen.me/2016/12/hello/</link>
       <pubDate>Thu, 22 Dec 2016 15:42:08 +0800</pubDate>
       
-      <guid>http://blog.singsen.me/2016/12/hello/</guid>
-      <description>&lt;p&gt;我有酒，你有故事吗？&lt;/p&gt;
+      <guid>https://blog.singsen.me/2016/12/hello/</guid>
+      <description>&lt;p&gt;HERE IS NOTHING &amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
