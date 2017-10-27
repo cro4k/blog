@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Singsen</title>
-    <link>https://blog.singsen.me/</link>
-    <description>Recent content on Singsen</description>
+    <title>Mysql on Singsen</title>
+    <link>https://blog.singsen.me/tags/mysql/</link>
+    <description>Recent content in Mysql on Singsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 07 Sep 2017 15:55:24 +0800</lastBuildDate>
     
-	<atom:link href="https://blog.singsen.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.singsen.me/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -52,15 +52,6 @@ bind-address = 127.0.0.1
 (也可能my.cnf里只有两个include，就到include的目录下找相关配置，如 /etc/mysql/mysql.conf.d/mysqld.cnf)
 最后重启mysql
 sudo /etc/init.d/mysql restart</description>
-    </item>
-    
-    <item>
-      <title>contact</title>
-      <link>https://blog.singsen.me/contact/</link>
-      <pubDate>Mon, 10 Apr 2017 16:28:29 +0800</pubDate>
-      
-      <guid>https://blog.singsen.me/contact/</guid>
-      <description>hello this is contact page</description>
     </item>
     
   </channel>

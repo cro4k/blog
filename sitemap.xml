@@ -2,39 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.singsen.me/2016/12/music/</loc>
-    <lastmod>2016-12-23T14:19:30+08:00</lastmod>
+    <loc>https://blog.singsen.me/2017/09/golang%E5%9C%A8mysql%E4%B8%AD%E4%BD%BF%E7%94%A8json%E5%AF%B9%E8%B1%A1/</loc>
+    <lastmod>2017-09-07T15:55:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.singsen.me/2016/12/hello/</loc>
-    <lastmod>2016-12-22T15:42:08+08:00</lastmod>
+    <loc>https://blog.singsen.me/2017/09/mysql%E6%9D%83%E9%99%90%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2017-09-07T15:55:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.singsen.me/about/</loc>
+    <loc>https://blog.singsen.me/contact/</loc>
+    <lastmod>2017-04-10T16:28:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.singsen.me/tags/golang/</loc>
+    <lastmod>2017-09-07T15:55:24+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.singsen.me/tags/mysql/</loc>
+    <lastmod>2017-09-07T15:55:24+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.singsen.me/post/</loc>
-    <lastmod>2016-12-23T14:19:30+08:00</lastmod>
+    <lastmod>2017-09-07T15:55:24+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.singsen.me/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.singsen.me/</loc>
-    <lastmod>2016-12-23T14:19:30+08:00</lastmod>
+    <lastmod>2017-09-07T15:55:24+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.singsen.me/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.singsen.me/tags/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2016-12-22T15:42:08+08:00</lastmod>
+    <lastmod>2017-09-07T15:55:24+08:00</lastmod>
     <priority>0</priority>
   </url>
   
