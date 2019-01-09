@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://blog.singsen.me/2017/09/golang%E5%9C%A8mysql%E4%B8%AD%E4%BD%BF%E7%94%A8json%E5%AF%B9%E8%B1%A1/</loc>
